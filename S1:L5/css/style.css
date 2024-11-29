@@ -1,0 +1,160 @@
+/* Your styles here */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: "Open Sans";
+    line-height: 1.65rem;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+    color: #25a2c3;
+    font-family: "Open Sans";
+    line-height: 1.5em;
+    font-weight: bold;
+}
+
+/* HEADER */
+
+header {
+    text-align: center center;
+}
+
+header div {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+
+}
+
+header div img {
+    padding: 2em 0 3em 0;
+    height: 4em;
+}
+
+/* MAIN */
+article {
+    margin: 0;
+}
+
+article section {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    margin: 0;
+    background-position: center;
+}
+
+article div {
+    padding: 2em 0 2em 0; 
+}
+
+article h1 {
+    font-size: 4em;
+}
+
+article p {
+    font-weight: lighter;
+    font-size: 2em;
+    line-height: 1.65em;
+    padding: 0 2em;
+}
+
+article h3 {
+    font-size: 2em;
+}
+
+#first {
+    margin-top: 4em;
+}
+
+#last {
+    margin-bottom: 4em;
+}
+
+button {
+    background-color: #f04c2f;
+    border: none;
+    color: white;
+    padding: 1em 2em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 1em 0;
+
+}  
+
+button a {
+    color: white;
+    text-decoration: none;
+}
+
+article img {
+    width: 60%;
+    border-radius: 50%;
+}
+
+.orange {
+    background-color: #e22d0e;
+    color: white;
+    line-height: 1.65em;
+    font-family: "Open Sans";
+}
+
+.orange h2 {
+    font-size: 3.5em;
+    padding: 1.5em 0 0 0;
+    color: white;
+}
+
+.orange p {
+    font-size: 1.5em ;
+    margin: 0;
+}
+
+#italic {
+    font-size: 1.5em;
+    padding: 1.5em;
+    font-style: italic;
+}
+
+#mario {
+    font-size: 2em;
+}
+
+#ceo {
+    font-weight: lighter;
+    padding-bottom: 2em;
+}
+
+aside {
+    padding: 2em 1em 2em 1em;;
+}
+
+aside div {
+    border: 2px solid #dee1e3;
+    text-align: center;
+}
+
+aside img {
+    width: 100%;
+}
+
+footer {
+    background-color: #25a2c3 ;
+}
+
+footer h3 {
+    color: white;
+}
+
+footer a {
+    color: #c8e7f0;
+}
